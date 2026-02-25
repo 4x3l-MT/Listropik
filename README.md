@@ -1,4 +1,4 @@
-# 🎵 Listropik
+# Listropik
 
 [Español](#español) | [English](#english)
 
