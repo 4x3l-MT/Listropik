@@ -1,35 +1,43 @@
-# Listropik
+# Listropik 
 
-Listropik es una aplicación móvil de reproducción de audio local para Android que incluye la posibilidad de descargar canciones directamente desde YouTube conectándose a su servidor backend local ([API_Listropik](https://github.com/4x3l-MT/API_Listropik)).
-
----
-
-## Características
-
-* **Reproductor Local:** Organización y reproducción de archivos de audio guardados en el dispositivo.
-* **Descarga vía Red Local:** Conexión con un servidor Python hospedado en tu red local (laptop/PC) para procesar y descargar audio desde YouTube.
-* **Interfaz Moderna:** Diseñada con Jetpack Compose y la arquitectura MVVM.
+Listropik is a local audio player for Android designed with a modern user interface and local network integration to process and download music directly from YouTube using its companion backend server ([API_Listropik](https://github.com/4x3l-MT/API_Listropik)).
 
 ---
 
-## Tecnologías Utilizadas
+##  Features
 
-* **Lenguaje:** Kotlin
-* **UI:** Jetpack Compose
-* **Arquitectura:** MVVM (Model-View-ViewModel)
-* **Red:** Retrofit / OkHttp (para la comunicación con la API)
+- **Local Audio Player:** Organize and play audio files stored directly on your Android device.
 
----
+- **Network-Based Downloads:** Connect to a Python server hosted on your local Wi-Fi network (laptop/PC) to download audio tracks from YouTube.
 
-##Requisitos y Configuración
+- **Modern UI:** Built from scratch using Jetpack Compose and following the MVVM architecture pattern.
 
-Para utilizar la función de descarga de música:
-
-1. Debes tener ejecutando el backend [API_Listropik](https://github.com/4x3l-MT/API_Listropik) en una computadora conectada a la misma red Wi-Fi que tu dispositivo Android.
-2. Ingresa la dirección IP de tu computadora dentro de la configuración de la aplicación móvil.
 
 ---
 
-## Licencia
+##  Tech Stack
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](https://github.com/4x3l-MT/Listropik?tab=MIT-1-ov-file) para más detalles.
+- **Language:** Kotlin
+
+- **UI Framework:** Jetpack Compose
+
+- **Architecture:** MVVM (Model-View-ViewModel)
+
+- **Networking:** Retrofit / OkHttp (for local API communication)
+
+
+---
+
+##  Requirements & Setup
+
+To use the YouTube download feature:
+
+1. Ensure the backend server ([API_Listropik](https://github.com/4x3l-MT/API_Listropik)) is running on a computer connected to the same Wi-Fi network as your Android device.
+
+2. Enter your computer's local IP address in the app settings to link the client with the backend.
+
+---
+
+##  License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/4x3l-MT/Listropik?tab=MIT-1-ov-file) file for details.
