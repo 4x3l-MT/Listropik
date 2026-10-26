@@ -4,7 +4,7 @@ Listropik es una aplicación móvil de reproducción de audio local para Android
 
 ---
 
-##Características
+## Características
 
 * **Reproductor Local:** Organización y reproducción de archivos de audio guardados en el dispositivo.
 * **Descarga vía Red Local:** Conexión con un servidor Python hospedado en tu red local (laptop/PC) para procesar y descargar audio desde YouTube.
@@ -12,7 +12,7 @@ Listropik es una aplicación móvil de reproducción de audio local para Android
 
 ---
 
-##Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * **Lenguaje:** Kotlin
 * **UI:** Jetpack Compose
@@ -30,6 +30,6 @@ Para utilizar la función de descarga de música:
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
