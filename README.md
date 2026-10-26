@@ -32,4 +32,4 @@ Para utilizar la función de descarga de música:
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](https://github.com/4x3l-MT/Listropik?tab=MIT-1-ov-file) para más detalles.
